@@ -9,5 +9,5 @@ Sleep, 300
 MouseClick, left, 1009, 346
 Sleep, 300
 MouseClick, left, 579, 703
-Sleep, 2800
+Sleep, 2800 ; Probably will work with around 2000ms
 MouseClick, left, 579, 703
